@@ -1,0 +1,3 @@
+
+movie title: undefined, Year Made: undefined, IMDB Rating: undefined
+movie title: Click, Year Made: 2006, IMDB Rating: 6.4

@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri hw simple node.js",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trcka/liri.git"
+  },
+  "keywords": [
+    "twitter",
+    "node.js"
+  ],
+  "author": "Michael Trcka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trcka/liri/issues"
+  },
+  "homepage": "https://github.com/Trcka/liri#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
